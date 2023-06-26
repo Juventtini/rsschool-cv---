@@ -1,4 +1,4 @@
-![myPhoto](Image/photo.png "My photo")
+![myPhoto](img/photo.png "My photo")
 
 # Serhii Kyrylchuk
 

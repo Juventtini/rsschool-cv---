@@ -1,2 +1,3 @@
 # rsschool-cv
-PreSchool frontend task
+CV/MD link:
+https://Juventtini.github.io/rsschool-cv/cv
